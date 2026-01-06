@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profli-Aryan Marghade </title>
+    <style>
+        body {
+            background-image: url(https://img.freepik.com/free-vector/modern-abstract-white-minimal-background_84443-8335.jpg?semt=ais_hybrid&w=740&q=80) ;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f4f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .portfolio {
+            background-color: #ffffff;
+            width: 90%;
+            max-width: 600px;
+            padding: 30px;
+            text-align: center;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .profile-pic {
+            
+            width: 140px;
+            height: 140px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 10px 0 5px;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #333;
+            font-size: 20px;
+        }
+
+        p {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            background: #eef1f5;
+            margin: 6px 0;
+            padding: 8px;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="portfolio">
+      
+        <img src="1.jpg" alt="Profile Photo" class="profile-pic">
+
+        
+        <h1>Aryan Marghade</h1>
+        <p>College Student :- Symbiosis Institute of Technology (SIT) Nagpur</p>
+
+      
+        <h2>About Me</h2>
+        <p>
+            I am at Second semester of first year journey at Symbiosis Institute of Technology (SIT) Nagpur , Leaning about Mutiple domains and key instrest in networking 
+            with doing Events , Hackthons and programs to grow 
+        </p>
+
+     
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Python - Basic</li>
+            <li>Netwroking basics</li>
+          <li> Linux -baics and commands</li>
+          <li>C</li>
+          <li>C++</li>
+
+        </ul>
+
+        <h2>Education</h2>
+        <p>
+           Class  10 :- 2022     <br>
+             Science + Mix(Hindi+ Sanskrit lang) :- Maharashtra State Board  (Secondary School Certificate SSC Borad) <Br>
+          <b> Saraswati Vidyalaya in Nagpur, India (SVN) <br></b>
+             <br>
+           Class 12 :- 2025<br>
+             Science - Computer Scienc:- Maharashtra State Board (Higher Secondary Certificate HSC Bora)<br>
+               <b>Tiptop Convent School in Nagpur , India <br></b>
+ 
+             <br>
+            Bachelor's in Technology (BTECH) - Computer Science<br>
+            <b>  Symbiosis Institute of Technology ,Nagpur<br></b>
+             Graduation: 2029
+        </p>
+
+
+        <h2>Projects :- </h2>
+        <p>
+            Working Web Site calculator.
+            Capture The Flags -linux. 
+            Ardino uno R3 - Traffic light , Light Emitting Diode.
+            Ramdom Number guessing game in C. 
+            Muti - Functonal Calculator in C using Functions , arrays , string , Files etc. 
+            Odering Website from home using gps.
+        </p>
+        <h2>Hackthons:- </h2>
+       <p>
+         ImmverserAI video genration  <br>
+        Smart India Hackthon (SIH) :- topic on Smart Toursim Platfrom <br> 
+        GGSIP Univerity - UST & ACM Student Chapter :- The Imitation Game 
+
+       </p>
+
+        <h2>Career Intrest:- </h2>
+        <p>
+            Working in mutiple domains to get basics and expret level of underdaing and application in filleds like cyber sceurity , AI/ Ml , Cloud based storing. 
+        </p>
+        <h2>contact Info:- </h2>
+      <p> Phone number - **********</p>
+      <p> linkedin:-
+  <a href="https://in.linkedin.com/in/aryan-marghade-b06515375" target="_blank" rel="noopener">
+    <button>click to see </button>
+  </a>
+</p>
+
+    </div>
+
+</body>
+</html>
